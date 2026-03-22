@@ -1,0 +1,14 @@
+C:\Users\Carlos\ApbdTutorial2\EquipmentRentalApp\bin\Debug\net8.0\EquipmentRentalApp.exe
+C:\Users\Carlos\ApbdTutorial2\EquipmentRentalApp\bin\Debug\net8.0\EquipmentRentalApp.deps.json
+C:\Users\Carlos\ApbdTutorial2\EquipmentRentalApp\bin\Debug\net8.0\EquipmentRentalApp.runtimeconfig.json
+C:\Users\Carlos\ApbdTutorial2\EquipmentRentalApp\bin\Debug\net8.0\EquipmentRentalApp.dll
+C:\Users\Carlos\ApbdTutorial2\EquipmentRentalApp\bin\Debug\net8.0\EquipmentRentalApp.pdb
+C:\Users\Carlos\ApbdTutorial2\EquipmentRentalApp\obj\Debug\net8.0\EquipmentRentalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\ApbdTutorial2\EquipmentRentalApp\obj\Debug\net8.0\EquipmentRentalApp.AssemblyInfoInputs.cache
+C:\Users\Carlos\ApbdTutorial2\EquipmentRentalApp\obj\Debug\net8.0\EquipmentRentalApp.AssemblyInfo.cs
+C:\Users\Carlos\ApbdTutorial2\EquipmentRentalApp\obj\Debug\net8.0\EquipmentRentalApp.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\ApbdTutorial2\EquipmentRentalApp\obj\Debug\net8.0\EquipmentRentalApp.dll
+C:\Users\Carlos\ApbdTutorial2\EquipmentRentalApp\obj\Debug\net8.0\refint\EquipmentRentalApp.dll
+C:\Users\Carlos\ApbdTutorial2\EquipmentRentalApp\obj\Debug\net8.0\EquipmentRentalApp.pdb
+C:\Users\Carlos\ApbdTutorial2\EquipmentRentalApp\obj\Debug\net8.0\EquipmentRentalApp.genruntimeconfig.cache
+C:\Users\Carlos\ApbdTutorial2\EquipmentRentalApp\obj\Debug\net8.0\ref\EquipmentRentalApp.dll
