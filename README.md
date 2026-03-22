@@ -1,8 +1,8 @@
-APBD Tutorial 2 - Equipment Rental System
+\# APBD Tutorial 2 - Equipment Rental System
 
 
 
-Project Description
+\## Project Description
 
 This project is a C# console application that simulates an equipment rental system.  
 
@@ -22,7 +22,7 @@ The system includes:
 
 
 
-How to Run
+\## How to Run
 
 1\. Open the project folder in the terminal.
 
