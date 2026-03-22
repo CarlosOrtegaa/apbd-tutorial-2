@@ -81,3 +81,8 @@ foreach (Equipment item in rentalService.GetAvailableEquipment())
 {
     Console.WriteLine(item.GetDetails());
 }
+
+Console.WriteLine("\nFINAL REPORT:");
+Console.WriteLine(rentalService.GetSummaryReport());
+
+Console.WriteLine("\nDemo completed.");
