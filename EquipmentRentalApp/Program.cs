@@ -76,5 +76,13 @@ foreach (Rental rental in rentalService.GetOverdueRentals())
     Console.WriteLine(rental.GetDetails());
 }
 
+Console.WriteLine("\nAVAILABLE EQUIPMENT:");
+foreach (Equipment item in rentalService.GetAvailableEquipment())
+{
+    Console.WriteLine(item.GetDetails());
+}
+
 Console.WriteLine("\nFINAL REPORT:");
 Console.WriteLine(rentalService.GetSummaryReport());
+
+Console.WriteLine("\nDemo completed.");

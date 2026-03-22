@@ -42,9 +42,17 @@ public class Rental
 
     public string GetDetails()
     {
-        string returnInfo = IsReturned
-            ? $"Returned: {ReturnDate:yyyy-MM-dd}, Penalty: {Penalty:C}"
-            : "Not returned yet";
+        string returnInfo;
+
+        if (!IsReturned)
+        {
+            returnInfo = "Not returned yet";
+        }
+        else
+        {
+            string status = WasReturnedLate ? "Late return" : "Returned on time";
+            returnInfo = $"Returned: {ReturnDate:yyyy-MM-dd}, Status: {status}, Penalty: {Penalty:C}";
+        }
 
         return $"Rental | User: {User.FullName}, Equipment: {Equipment.Name}, Rental Date: {RentalDate:yyyy-MM-dd}, Due Date: {DueDate:yyyy-MM-dd}, {returnInfo}";
     }
